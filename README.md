@@ -207,7 +207,7 @@ Full click-by-click build steps: [`docs/DASHBOARD_GUIDE.md`](docs/DASHBOARD_GUID
 
 **Nawaf Alqurashi**
 
-- [LinkedIn](www.linkedin.com/in/nawafqurashi)
+- [LinkedIn](https://www.linkedin.com/in/nawafqurashi)
 - [GitHub](https://github.com/iNx998)
 
 
