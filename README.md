@@ -101,7 +101,7 @@ A snapshot of Riyadh hotel listings collected from **18 booking sources** — OT
 
 A full field-by-field reference is in [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md).
 </details>
--Source: https://www.kaggle.com/datasets/mohammedalsubaie/riyadh-hotels/data
+- Source: https://www.kaggle.com/datasets/mohammedalsubaie/riyadh-hotels/data
 > ℹ️ The data is used for learning and portfolio purposes only.
 
 ---
@@ -207,8 +207,8 @@ Full click-by-click build steps: [`docs/DASHBOARD_GUIDE.md`](docs/DASHBOARD_GUID
 
 **Nawaf Alqurashi**
 
--LinkedIn: [Nawaf Alqurashi](www.linkedin.com/in/nawafqurashi)
-- GitHub: [@iNx998](https://github.com/iNx998)
+- [LinkedIn](www.linkedin.com/in/nawafqurashi)
+- [@GitHub](https://github.com/iNx998)
 
 
 ---
