@@ -154,7 +154,7 @@ git clone https://github.com/<your-username>/riyadh-hotels-analytics.git
 cd riyadh-hotels-analytics
 
 # 2. Install dependencies
-pip install pandas openpyxl
+pip install pandas 
 
 # 3. Rebuild the clean dataset
 python scripts/clean_data.py
@@ -205,7 +205,7 @@ Full click-by-click build steps: [`docs/DASHBOARD_GUIDE.md`](docs/DASHBOARD_GUID
 
 ## 📄 10. License
 
-Educational / portfolio use. Please confirm the source data terms before any commercial use.
+Portfolio use.
 
 ---
 
