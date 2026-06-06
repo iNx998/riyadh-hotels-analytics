@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Power BI temp/cache (keep .pbix if you want to publish it)
+*.pbix.tmp
+~$*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep raw + processed data tracked. If data is large or private, uncomment:
+# data/raw/
+# data/processed/

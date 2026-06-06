@@ -1,0 +1,107 @@
+{
+  "name": "Riyadh Desert Hospitality",
+  "dataColors": [
+    "#1A5632",
+    "#C9A227",
+    "#B5651D",
+    "#4A7C59",
+    "#D9B382",
+    "#7C4D2A",
+    "#2E5E4E",
+    "#8C6A3F",
+    "#A8C3A0",
+    "#E8DCC4"
+  ],
+  "good": "#1A5632",
+  "neutral": "#C9A227",
+  "bad": "#A23B2D",
+  "maximum": "#1A5632",
+  "center": "#C9A227",
+  "minimum": "#E8DCC4",
+  "null": "#D7D2C7",
+  "background": "#FAF6EF",
+  "secondaryBackground": "#EFE7D8",
+  "tableAccent": "#1A5632",
+  "foreground": "#2B2B2B",
+  "foregroundNeutralSecondary": "#5C574E",
+  "foregroundNeutralTertiary": "#8A8377",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 16,
+      "color": "#1A3C24"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#2B2B2B"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#2B2B2B"
+    },
+    "callout": {
+      "fontFace": "Segoe UI",
+      "fontSize": 36,
+      "color": "#1A5632"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E0D7C5" } }, "radius": 8 }],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#000000" } },
+            "transparency": 90,
+            "position": "Outer",
+            "preset": "BottomRight"
+          }
+        ],
+        "visualHeader": [
+          {
+            "show": true,
+            "background": { "solid": { "color": "#FAF6EF" } },
+            "foreground": { "solid": { "color": "#1A5632" } },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#1A3C24" } },
+            "fontSize": 13,
+            "fontFamily": "Segoe UI Semibold",
+            "alignment": "left"
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FAF6EF" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#FAF6EF" } }, "transparency": 0 }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#1A5632" } }, "fontSize": 32, "fontFamily": "Segoe UI Semibold" }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#5C574E" } }, "fontSize": 11 }]
+      }
+    },
+    "kpi": {
+      "*": {
+        "trend": [{ "color": { "solid": { "color": "#1A5632" } } }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [{ "fontColor": { "solid": { "color": "#1A3C24" } }, "fontFamily": "Segoe UI Semibold" }],
+        "items": [{ "fontColor": { "solid": { "color": "#2B2B2B" } } }]
+      }
+    }
+  }
+}
